@@ -1,0 +1,10 @@
+__pycache__
+build
+*.egg-info
+
+*.o
+.vscode
+
+logs
+
+policy
